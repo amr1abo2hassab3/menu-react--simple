@@ -1,5 +1,5 @@
 <div align="center">
-## 1 - diplay the data by << map >> function
+<h1> 1 - diplay the data by << map >> function </h1>
 ## 2 - function search on click input by title
 ## 3 - function filter data to category by btn
 ## 4 - function searches while typing
